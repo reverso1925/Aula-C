@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main() {
+void main() {
     char nome[50];
     float preço;
     int quantidade;
