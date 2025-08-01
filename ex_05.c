@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main(){
+void main(){
     int nascimento;
     int atual;
     printf("Insira seu ano de nascimento: \n");
