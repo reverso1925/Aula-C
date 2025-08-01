@@ -1,8 +1,8 @@
 #include <stdio.h>
 void main(){
     char nome[50];
-    float salario;
-    int meses;
+    float salario = 0;
+    int meses = 0;
     printf("Insira o nome do funcionário: ");
     scanf("%49s", nome);
     printf("Insira o salário mensal: ");
