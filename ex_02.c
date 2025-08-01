@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main(){
+void main(){
     int numero1, numero2;
     int soma = 0;
     int contagem = 0;
