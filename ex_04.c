@@ -14,7 +14,7 @@ void main(){
             printf("Digite a quantiade em metros: ");
             scanf("%f", &metro);
             float resultado = metro * 100;
-            printf("%.2f metros é igual a %.2f centímetros\n", metro, resultado);
+            printf("%.3f metros é igual a %.3f centímetros\n", metro, resultado);
     }
     
 }
