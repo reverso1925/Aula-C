@@ -1,7 +1,7 @@
 #include <stdio.h>
 void main(){
-    int nascimento;
-    int atual;
+    int nascimento = 0;
+    int atual = 0;
     printf("Insira seu ano de nascimento: \n");
     scanf("%d", &nascimento);
     printf("Insira o ano atual: \n");
