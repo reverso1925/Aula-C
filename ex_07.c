@@ -1,8 +1,8 @@
 #include <stdio.h>
 void main() {
     char nome[50];
-    float preço;
-    int quantidade;
+    float preço = 0;
+    int quantidade = 0;
     printf("Insira o nome do produto: ");
     scanf("%s", nome);
     printf("Insira o preço unitário do produto: ");
