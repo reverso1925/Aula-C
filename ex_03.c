@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main(){
-    float nota1;
-    float nota2;
-    float nota3;
+    float nota1 = 0;
+    float nota2 = 0;
+    float nota3 = 0;
     float media;
     printf("Digite a primeira nota: \n");
     scanf("%f", &nota1);
