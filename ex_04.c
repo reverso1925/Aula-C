@@ -1,7 +1,7 @@
 #include <stdio.h>
 void main(){
-    float metro;
-    float cm;
+    float metro = 0;
+    float cm = 0;
     char escolha;
     printf("Para converter centímetros para metros pressione A, caso queira converter metros para centímetros pressione B: \n");
     scanf("%c", &escolha);
